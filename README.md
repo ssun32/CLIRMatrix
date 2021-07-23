@@ -5,11 +5,13 @@ Alternatively, CLIRMatrix is also available in the following google drive:
 
 https://drive.google.com/drive/folders/1V-DcBwvAnlVAYJw_gsx0zXV5VXJcRGGc?usp=sharing
 
-#We provide a script to extract untruncated documents from Wikipedia dumps:
+Script to extract untruncated documents from Wikipedia dumps:
 
 ```
 Usage:
     ./extract.sh [wikipedia language code]
+E.g.
+    ./extract.sh en
 ```
 
 ## Reference
